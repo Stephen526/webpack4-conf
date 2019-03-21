@@ -8,3 +8,4 @@ document.getElementById('app').addEventListener('click',function(e){
 if(module.hot){
     module.hot.accept()
 }
+console.log(1)
