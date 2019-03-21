@@ -11,5 +11,8 @@ if(module.hot){
 
 console.log(1)
 console.log(2)
+<<<<<<< HEAD
 console.log(3)
 
+=======
+>>>>>>> parent of d8d3957... 3
