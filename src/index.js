@@ -9,3 +9,4 @@ if(module.hot){
     module.hot.accept()
 }
 console.log(1)
+console.log(2)
